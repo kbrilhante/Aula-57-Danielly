@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    margin: 0;
+    color: #fff;
+    background-color: #C200FB;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.nome {
+    color: cyan;
+}
+
+#fotoPerfil {
+    width: 400px;
+    max-width: 80%;
+    border-radius: 50%;
+}
+
+#welcome {
+    background-image: linear-gradient(#EC0868, #C200FB);
+    padding: 100px 20px;
+}
+
+#texto {
+    font-size: 20px;
+    width: 90%;
+    margin-left: auto; 
+    margin-right: auto; 
+    text-align: justify;
+}
+
+.line {
+    width: 100px;
+    height: 6px;
+    background-color: #EC0868;
+    margin: 0 auto 30px;
+}
